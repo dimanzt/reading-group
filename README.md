@@ -17,8 +17,8 @@ discussions about papers or post new papers:
 
 If you have a question about the reading group, you 
 can contact any of the two organizers:
-* [Stefan Achleitner](steve.achleitner@gmail.com)
-* [Nicolas Papernot](nicolas@papernot.fr)
+* [Stefan Achleitner](mailto:steve.achleitner@gmail.com)
+* [Nicolas Papernot](mailto:nicolas@papernot.fr)
 
 ## How the reading group works
 
