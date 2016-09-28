@@ -11,8 +11,14 @@ in the school of EECS at Penn State.
 
 ## Contact information
 
-You can ask to join the mailing list 
-[here](https://groups.google.com/group/psu-eecs-reading-group).
+You can ask to join the mailing list in order to view 
+discussions about papers or post new papers: 
+[mailing list](https://groups.google.com/group/psu-eecs-reading-group).
+
+If you have a question about the reading group, you 
+can contact any of the two organizers:
+* [Stefan Achleitner](steve.achleitner@gmail.com)
+* [Nicolas Papernot](nicolas@papernot.fr)
 
 ## How the reading group works
 
